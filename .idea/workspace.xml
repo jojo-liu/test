@@ -137,12 +137,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524239383389</updated>
       <workItem from="1524239387558" duration="1000" />
-      <workItem from="1524239394411" duration="1315000" />
+      <workItem from="1524239394411" duration="1630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1316000" />
+    <option name="totallyTimeSpent" value="1631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1280" height="1337" extended-state="0" />
@@ -158,8 +158,8 @@
       <window_info anchor="bottom" id="JRebel Executor" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32930756" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32930756" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32930756" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32930756" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
